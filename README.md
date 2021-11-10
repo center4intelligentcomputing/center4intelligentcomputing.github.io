@@ -1,2 +1,2 @@
 # iclbpdc.github.io
-center for Intelligent Computing , BITS Pilani, Dubai Campus
+Intelligent Computing Lab , BITS Pilani, Dubai Campus
